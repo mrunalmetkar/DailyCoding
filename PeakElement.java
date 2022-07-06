@@ -37,7 +37,7 @@ class PeakElement{
 
 
 /*Complete the function below*/
-//Binary search approach
+/////Binary search approach
 class Solution
 {
 	// Function to find the peak element
